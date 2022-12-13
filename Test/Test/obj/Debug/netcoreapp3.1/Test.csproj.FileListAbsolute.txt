@@ -1,0 +1,14 @@
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Katerina\Desktop\All\My works\3 курс 1 семестр\Инструментальные средства информационных систем\Practice_Git\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
